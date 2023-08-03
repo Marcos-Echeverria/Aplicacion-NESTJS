@@ -1,5 +1,5 @@
 import TaskList from "./components/TaskList";
-import TaskForm from "./components/taskForm"; //Aca puede haber un conflicto a futuro porque tiene una miniscula donde deberia haber mayuscula pero nose porque no me deja ponerlo asi
+import TaskForm from "./components/TaskForm"; 
 
 export const App = () => {
   return (
