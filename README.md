@@ -1,1 +1,1 @@
-Aplicacion de notas con NestJS 
+Aplicacion web Fullstack usando Nestjs, el framework backend de Nodejs, junto a Mongodb como base de datos NoSQL y React como Frontend en un solo proyecto. En este ejemplo practico cree una web backend y frontend usando Typescript como lenguaje principal además de Mongoose y Vitejs.
